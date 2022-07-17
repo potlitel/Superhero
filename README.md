@@ -73,7 +73,7 @@
 
 ## About The Project
 
-<img src="images/ProjectImage.png" alt="Logo" width="800" height="500">
+<img src="images/ProjectImage.png" alt="Logo" width="950" height="500">
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
@@ -189,7 +189,7 @@ List of resources I find helpful and would like to give credit to. I've included
 
 * [Creating a REST Web API in C# with ASP.NET Core 5.0 and Visual Studio Code](https://luis-hernandez.medium.com/creating-a-rest-web-api-in-c-with-asp-net-core-5-0-and-visual-studio-code-809ea7b4f815)
 * [Use with ASP.NET Core Web API](https://mysqlconnector.net/tutorials/net-core-mvc/)
-
+* [superheroes.json](https://gist.github.com/mariodev12/a923f2b651a005ca3ca7f851141efcbc)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
