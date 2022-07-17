@@ -22,8 +22,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/potlitel/Superhero">
+    <img src="images/NET_Core_Logo.svg.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Superheroes - .Net Core WebApi</h3>
@@ -31,14 +31,14 @@
 <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/potlitel/Superhero"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/potlitel/Superhero">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/potlitel/Superhero">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/potlitel/Superhero/issues">Request Feature</a>
   </p>
 </div>
 
@@ -73,7 +73,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img src="images/ProjectImage.png" alt="Logo" width="800" height="500">
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
